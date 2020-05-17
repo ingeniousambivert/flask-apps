@@ -13,7 +13,7 @@ class Todo(db.Model):
     date = db.Column(db.DateTime, default=datetime.utcnow)
 
     def __repr__(self):
-        return "<Task %r>" % self.id
+        return "<Todo %r>" % self.id
 
 
 @app.route("/", methods=["POST", "GET"])
