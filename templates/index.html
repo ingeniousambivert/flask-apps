@@ -1,0 +1,47 @@
+ {% extends 'base.html' %}
+
+ {% block head %}
+ <title>
+ Flask TODO
+ </title>
+ {% endblock %}
+
+ {% block body %}
+  <h1 class="display-4 text-center m-5">TODO!</h1>
+
+    {% if todos|length <1  %}
+    <h4 class="display-5 text-center m-5"> There are no TODOS add one below !</h4>
+    
+
+    {% else %}
+    <table class="table table-hover text-center">
+     <thead class="thead-dark">
+      <tr>
+        <th scope="col">Task</th>
+        <th scope="col">Added</th>
+        <th scope="col">Actions</th>
+        </tr>
+    </thead>
+        <tbody>
+        {% for todo in todos %}
+            <tr>
+            <td>{{todo.content}}</td>
+            <td>{{todo.date.date()}}</td>
+            <td><a href="/edit/{{todo.id}}"><i style="font-size:1.25rem; margin-right:1rem;" class="far fa-edit"></i></a><span> </span><a href="/delete/{{todo.id}}"><i style="font-size:1.25rem;" class="far fa-trash-alt"></i></a></td>
+            </tr>
+        {% endfor %}
+        </tbody>
+</table>
+{% endif %}
+  
+
+<form action="/" method="POST" class="text-center mt-5">
+  <div class="form-group">
+    <label for="content">Add TODOs to the list</label>
+    <input style="margin: 0 auto;" type="text" name="content" class="form-control w-50 text-center" id="content" aria-describedby="emailHelp" placeholder="Enter Todo">
+    <small id="todoHelp" class="form-text text-muted">Add todos to never forget them.</small>
+  </div>
+  <button type="submit" class="btn btn-dark">Add</button>
+</form>
+
+ {% endblock %}
