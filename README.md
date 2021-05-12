@@ -3,9 +3,9 @@
 Minimal Search Page
 
 
-[Server](https://github.com/ingeniousambivert/create-your-ad-task/tree/main/server) - Contains the Flask Server. 
-[Read More](https://github.com/ingeniousambivert/create-your-ad-task/tree/main/server#readme)
+[Server](https://github.com/ingeniousambivert/flask-todo/edit/search-app-local-db-react/server) - Contains the Flask Server. 
+[Read More](https://github.com/ingeniousambivert/flask-todo/edit/search-app-local-db-react/server#readme)
 
 
-[Web](https://github.com/ingeniousambivert/create-your-ad-task/tree/main/web) - Contains the React Client. 
-[Read More](https://github.com/ingeniousambivert/create-your-ad-task/tree/main/web#readme)
+[Web]https://github.com/ingeniousambivert/flask-todo/edit/search-app-local-db-react/web) - Contains the React Client. 
+[Read More](https://github.com/ingeniousambivert/flask-todo/edit/search-app-local-db-react/web#readme)
