@@ -1,0 +1,143 @@
+[
+    {
+        "alpha_code":"IN",
+        "country":"India",
+        "domain":"ac.in",
+        "name":"Indian Institute of Technology Bombay",
+        "web_page":"https://www.iitb.ac.in"
+    },
+    {
+        "alpha_code":"CAD",
+        "country":"Canda",
+        "domain":".ca",
+        "name":"University of Toronto",
+        "web_page":"https://www.utoronto.ca"
+    },
+    {
+        "alpha_code":"UK",
+        "country":"United Kingdom",
+        "domain":"ac.uk",
+        "name":"University of Oxford",
+        "web_page":"https://www.ox.ac.uk"
+    },
+    {
+        "alpha_code":"UK",
+        "country":"United Kingdom",
+        "domain":"ac.uk",
+        "name":"Imperial College London",
+        "web_page":"https://www.imperial.ac.uk"
+    },
+    {
+        "alpha_code":"IN",
+        "country":"India",
+        "domain":"ac.in",
+        "name":"University of Delhi",
+        "web_page":"https://www.du.ac.in"
+    },
+    {
+        "alpha_code":"US",
+        "country":"United States",
+        "domain":".edu",
+        "name":"University of California Los Angeles",
+        "web_page":"https://www.ucla.edu"
+    },
+    {
+        "alpha_code":"US",
+        "country":"United States",
+        "domain":".edu",
+        "name":"Harvard University",
+        "web_page":"https://www.harvard.edu"
+    },
+    {
+        "alpha_code":"IN",
+        "country":"India",
+        "domain":"ac.in",
+        "name":"University of Mumbai",
+        "web_page":"https://mu.ac.in/"
+    },
+    {
+        "alpha_code":"US",
+        "country":"United States",
+        "domain":".edu",
+        "name":"Columbia University",
+        "web_page":"https://www.columbia.edu"
+    },
+    {
+        "alpha_code":"US",
+        "country":"United States",
+        "domain":".edu",
+        "name":"University of California Berkeley",
+        "web_page":"https://www.berkeley.edu"
+    },
+    {
+        "alpha_code":"CAD",
+        "country":"Canda",
+        "domain":".ca",
+        "name":"University of Alberta",
+        "web_page":"https://www.ualberta.ca/"
+    },
+    {
+        "alpha_code":"UK",
+        "country":"United Kingdom",
+        "domain":"ac.uk",
+        "name":"University of Cambridge",
+        "web_page":"https://www.cam.ac.uk"
+    },
+     {
+        "alpha_code":"IN",
+        "country":"India",
+        "domain":"ac.in",
+        "name":"Indian Institute of Science Bangalore",
+        "web_page":"https://www.iisc.ac.in"
+    },
+    {
+        "alpha_code":"CAD",
+        "country":"Canda",
+        "domain":".ca",
+        "name":"University of British Columbia",
+        "web_page":"https://www.ubc.ca"
+    },
+    {
+        "alpha_code":"UK",
+        "country":"United Kingdom",
+        "domain":"ac.uk",
+        "name":"University College of London",
+        "web_page":"https://www.ucl.ac.uk"
+    },
+    {
+        "alpha_code":"US",
+        "country":"United States",
+        "domain":".edu",
+        "name":"Massachusetts Institute of Technology",
+        "web_page":"https://web.mit.edu"
+    },
+    {
+        "alpha_code":"CAD",
+        "country":"Canda",
+        "domain":".ca",
+        "name":"McMaster University",
+        "web_page":"https://www.mcmaster.ca"
+    },
+    {
+        "alpha_code":"IN",
+        "country":"India",
+        "domain":"ac.in",
+        "name":"Birla Institute of Technology and Science Pilani",
+        "web_page":"https://bits-pilani.ac.in"
+    },
+    {
+        "alpha_code":"UK",
+        "country":"United Kingdom",
+        "domain":"ac.uk",
+        "name":"University of Edinburgh",
+        "web_page":"https://www.ed.ac.uk"
+    },
+    {
+        "alpha_code":"CAD",
+        "country":"Canda",
+        "domain":".ca",
+        "name":"McGill University",
+        "web_page":"https://www.mcgill.ca"
+    }
+    
+]
